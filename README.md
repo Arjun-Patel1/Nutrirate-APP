@@ -1,10 +1,5 @@
-# Nutrirate-APP
-Gemini said
-A great README.md is what turns a simple folder of code into a professional Portfolio Project. Since your focus is on how AI/ML solves a specific problem (Indian nutritional coaching), we should highlight the "Data-Driven" nature of your app.
 
-Here is a professional, high-impact README.md structure for NutriRate.
-
-🥗 NutriRate: AI-Powered Indian Health Coach
+## 🥗 NutriRate: AI-Powered Indian Health Coach
 NutriRate is a specialized Flutter application designed to bridge the gap between traditional Indian diets and modern health goals. By leveraging Large Language Models (LLMs) and custom nutritional datasets, it provides culturally nuanced, medically aware dietary coaching.
 
 🚀 The Problem Statement
